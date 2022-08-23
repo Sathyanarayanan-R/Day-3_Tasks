@@ -1,0 +1,71 @@
+{
+    "Name": "SATHYANARAYANAN R",
+    "Contact": {
+        "email": "rsathyajana2000@gmail.com",
+        "mobile number": "+918940727184"
+    },
+    "Education": {
+            "UG": {
+                "Course": "Bachelor of Science in Computer Science",
+                "Percentage": "73%",
+                "College Name" : "NMS SVN College",
+                "Year of Completion": 2019  
+            },
+            "HSC": {
+                "Percentage": "69.58%",
+                "School Name" : "KMHSS",
+                "Year of Completion": 2016   
+            },
+            "SSLC": {
+                "Percentage": "87.20%",
+                "School Name" : "KMHSS",
+                "Year of Completion": 2014
+            }
+                 
+    },
+    "Work Experience": {
+        "Role": "Linux Administrator",
+        "Number of Years": "16/01/2020 - Present",
+        "Company": "HCL Technologies"
+    },
+    "Technical & Programming Skills": [
+        "C",
+        "Java",
+        "MySQL DB",
+        "Linux"
+    ],
+    "Personal Skills": [
+        "Quick & Self Learner",
+        "Ability to work with people diplomatically",
+        "Self-Motivated & Smart Working"
+    ],
+    "Certifications":[
+        "LAMP Certified Professional",
+        "Type Writing - Junior Grade"
+    ],
+    "Area Of Interest":[
+        "Web Development",
+        "Android Development"
+    ],
+    "Projects": {
+        "name": "Examination Seating Arrangement System (Auto ESAS)",
+        "OS Platform": "Android",
+        "Programming Language & DB": "Java & SQlite",
+        "IDE": "Eclipse",
+        "done between": "Dec 2018 - Apr 2019"
+    },
+    "Hobbies": [
+        "Net Surfing",
+        "Playing Cricket",
+        "Walking & Cycling"
+    ],
+    "Personal Details": {
+        "Date of Birth": "15/03/1999",
+        "Martial Status": "Single",
+        "Nationality": "Indian",
+        "Gender": "Male",
+        "Religion": "Hindu",
+        "Address": "1/197 Vallabhai patel Street, Thodaneri, Samayanallur(VIA), Madurai-625402, Tamilnadu"
+    }
+}
+      
